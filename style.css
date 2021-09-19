@@ -1,0 +1,81 @@
+h1 {
+  color:white;
+  font-size: 100px;
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+}
+
+body {
+  color: darkslategray;
+  background-color:floralwhite;
+  font-size: 25px;
+  line-height: 1.7;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+h2 {
+  color:darkslategrey;
+  font-size: 35px;
+  margin-top: 0;
+  font-style: italic;
+}
+
+ h3 {
+  color:darkslategrey;
+  font-size: 25px;
+  margin-top: 50px;
+  font-style: italic;
+}
+.paticka {
+  color: coral;
+  background-color:darkslategrey;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.foto_omne {
+  width: 120px;
+  float: left;
+  margin: 0 20px 20px 0;
+  border: 2px solid darkslategrey;
+}
+
+section {
+  padding: 20px 15%;
+}
+
+.vzdelani {
+  clear: left;
+}
+
+.hlavicka {
+  background-image: url(matrix.jpeg);
+  padding: 100px 30px;
+}
+
+.menu li {
+  display: inline-block;
+  text-align: center;
+  background-color: darkslategrey;
+}
+
+.menu a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: 20px 30px;
+}
+
+.menu {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: darkslategrey;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+  background-color:cadetblue;
+}
